@@ -1,4 +1,4 @@
 Flask
 Gunicorn
-pip install pywhatkit
+pywhatkit
 flask 
